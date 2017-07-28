@@ -1,3 +1,3 @@
 ####  Medusa
 
-Web page detection
+網頁靜態原始碼進行初次儲存為比對原始樣本，進行網頁異動比對依據
